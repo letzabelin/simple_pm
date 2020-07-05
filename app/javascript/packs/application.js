@@ -23,3 +23,5 @@ document.addEventListener('turbolinks:load', () => {
   const sortableItems = document.getElementById('tasks-list');
   const sortable = Sortable.create(sortableItems, { animation: 150 });
 });
+
+import "controllers"
