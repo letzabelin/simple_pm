@@ -7,5 +7,8 @@
 ## Installing
 ```
   $ bundle install
+  $ yarn install --check-files
+  $ rails db:migrate
+  $ rails dev:cache
   $ rails s
 ```
