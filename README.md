@@ -4,7 +4,7 @@
 * Yarn
 * SQLite3
 
-## Installing
+## Install & Start Server
 ```
   $ bundle install
   $ yarn install --check-files
